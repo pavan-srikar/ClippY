@@ -1,0 +1,12 @@
+{
+    "Name": {"type": 1, "value": "Pavan Srikar"},
+    "ID": {"type": 1, "value": "2100031408"},
+    "KLmail": {"type": 1, "value": "2100031408cseh@gmail.com"},
+    "Email": {"type": 1, "value": "pavansrikar123@gmail.com"},
+    "Phone": {"type": 1, "value": "7382006062"},
+    "Cover Letter": {"type": 2, "value": "Enter your cover letter here..."},
+    "Portfolio": {"type": 1, "value": "https://uxbypavan.framer.ai/Projects"},
+    "GitHub": {"type": 1, "value": "https://github.com/pavan-srikar"},
+    "LinkedIn": {"type": 1, "value": "https://www.linkedin.com/in/pavansrikarjetty/"},
+    "Salseforce": {"type": 1, "value": "https://www.salesforce.com/trailblazer/pavansrikar"}
+}
